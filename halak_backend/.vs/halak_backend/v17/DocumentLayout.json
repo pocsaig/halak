@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|c:\\users\\pocsai\\source\\repos\\nb\\halak\\halak_backend\\halak_backend\\dtok\\horgaszotthaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|solutionrelative:halak_backend\\dtok\\horgaszotthaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|c:\\users\\pocsai\\source\\repos\\nb\\halak\\halak_backend\\halak_backend\\dtok\\haromlegnagyobbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|solutionrelative:halak_backend\\dtok\\haromlegnagyobbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|c:\\users\\pocsai\\source\\repos\\nb\\halak\\halak_backend\\halak_backend\\dtok\\osszeshaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|solutionrelative:halak_backend\\dtok\\osszeshaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|c:\\users\\pocsai\\source\\repos\\nb\\halak\\halak_backend\\halak_backend\\controllers\\halakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|solutionrelative:halak_backend\\controllers\\halakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|c:\\users\\pocsai\\source\\repos\\nb\\halak\\halak_backend\\halak_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99C0BF0-5574-43A3-A42F-777392A2F494}|halak_backend\\halak_backend.csproj|solutionrelative:halak_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaromLegnagyobbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\HaromLegnagyobbDTO.cs",
+              "RelativeDocumentMoniker": "halak_backend\\DTOk\\HaromLegnagyobbDTO.cs",
+              "ToolTip": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\HaromLegnagyobbDTO.cs",
+              "RelativeToolTip": "halak_backend\\DTOk\\HaromLegnagyobbDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:51:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HorgaszottHalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\HorgaszottHalDTO.cs",
+              "RelativeDocumentMoniker": "halak_backend\\DTOk\\HorgaszottHalDTO.cs",
+              "ToolTip": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\HorgaszottHalDTO.cs",
+              "RelativeToolTip": "halak_backend\\DTOk\\HorgaszottHalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:51:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsszesHalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\OsszesHalDTO.cs",
+              "RelativeDocumentMoniker": "halak_backend\\DTOk\\OsszesHalDTO.cs",
+              "ToolTip": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\DTOk\\OsszesHalDTO.cs",
+              "RelativeToolTip": "halak_backend\\DTOk\\OsszesHalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:51:17.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\Program.cs",
+              "RelativeDocumentMoniker": "halak_backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\Program.cs",
+              "RelativeToolTip": "halak_backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:28:26.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HalakController.cs",
+              "DocumentMoniker": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\Controllers\\HalakController.cs",
+              "RelativeDocumentMoniker": "halak_backend\\Controllers\\HalakController.cs",
+              "ToolTip": "C:\\Users\\Pocsai\\source\\repos\\NB\\halak\\halak_backend\\halak_backend\\Controllers\\HalakController.cs",
+              "RelativeToolTip": "halak_backend\\Controllers\\HalakController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwFwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:25:18.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
