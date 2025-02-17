@@ -1,0 +1,56 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "halak_backend",
+    "version": "1.0"
+  },
+  "paths": {
+    "/halak": {
+      "get": {
+        "tags": [
+          "Halak"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/horgasz/{nev}": {
+      "get": {
+        "tags": [
+          "Halak"
+        ],
+        "parameters": [
+          {
+            "name": "nev",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/harom-legnagyobb": {
+      "get": {
+        "tags": [
+          "Halak"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
